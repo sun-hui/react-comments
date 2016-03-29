@@ -1,7 +1,7 @@
 {
-  "name": "react-tutorial",
+  "name": "react-comments",
   "version": "0.0.0",
-  "description": "Code from the React tutorial.",
+  "description": "Code from the React comments.",
   "main": "app.js",
   "dependencies": {
     "body-parser": "^1.4.3",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/reactjs/react-tutorial.git"
+    "url": "https://github.com/sun-hui/react-comments.git"
   },
   "keywords": [
     "react",
@@ -22,11 +22,11 @@
     "comment",
     "example"
   ],
-  "author": "petehunt",
+  "author": "hui.sun",
   "bugs": {
-    "url": "https://github.com/reactjs/react-tutorial/issues"
+    "url": "https://github.com/sun-hui/react-comments/issues"
   },
-  "homepage": "https://github.com/reactjs/react-tutorial",
+  "homepage": "https://github.com/sun-hui/react-comments",
   "engines" : {
     "node" : "0.12.x"
   }
